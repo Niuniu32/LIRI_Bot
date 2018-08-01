@@ -1,0 +1,24 @@
+{
+  "name": "liri_bot",
+  "version": "1.0.0",
+  "description": "APIS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niuniu32/LIRI_Bot.git"
+  },
+  "author": "Charles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Niuniu32/LIRI_Bot/issues"
+  },
+  "homepage": "https://github.com/Niuniu32/LIRI_Bot#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  }
+}
